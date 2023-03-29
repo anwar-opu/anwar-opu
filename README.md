@@ -7,7 +7,7 @@ My name is Anwar and I'm a student department of CSE. I enjoy online judge probl
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/opu966) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anwar_opu) 
 
 ### 👨‍👩‍👧‍👦 Profile visitor :
----
+
 [![](https://visitcount.itsvg.in/api?id=anwar-opu&icon=2&color=1)](https://visitcount.itsvg.in)
 
 # 💻 Tech Stack:
